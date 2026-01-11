@@ -8,48 +8,51 @@ This document tracks the setup process for mobile development using Expo Framewo
 ### Prerequisites
 - [x] Node.js LTS installed
 - [x] VS Code installed
-- [x] Compatible OS (macOS/Linux/Windows)
-- [ ] Expo Go installed on physical device
+- [x] Compatible OS (Windows)
+- [x] Expo Go installed on physical device
 
 ### Setup Process
 
 #### 1. Expo Go Installation
-**Date:** [Add current date]
+**Date:** January 11, 2026
 
 **Steps Followed:**
 1. Visited Expo Go homepage: https://expo.dev/go
 2. Selected latest SDK version
 3. Downloaded Expo Go app:
-   - Platform: [Android/iOS]
-   - Source: [Google Play Store/Apple App Store]
+   - Platform: Android
+   - Source: Google Play Store
 4. Installed and opened Expo Go
 5. Created/Logged into Expo account
 
 #### 2. Challenges Faced
-[Document any challenges encountered during setup]
 
-- Challenge 1: [Description]
-  - Solution: [How it was resolved]
+- Challenge 1: Initial setup confusion with repository structure
+  - Solution: Used bash commands to automate directory and file creation
 
-- Challenge 2: [Description]
-  - Solution: [How it was resolved]
+- Challenge 2: Git remote URL configuration error
+  - Solution: Removed incorrect remote and added correct GitHub repository URL
 
 #### 3. Verification
-- [ ] Expo Go successfully installed
-- [ ] Account created/logged in
-- [ ] Ready for development
+- [x] Expo Go successfully installed
+- [x] Account created/logged in
+- [x] Ready for development
 
 ### Environment Details
-- **Node.js Version:** [Run `node --version`]
-- **npm Version:** [Run `npm --version`]
-- **Operating System:** [Your OS]
-- **Device:** [Your device model]
-- **Expo Go Version:** [Check in app]
+- **Node.js Version:** v22.16.0
+- **npm Version:** 10.9.2
+- **Operating System:** Windows
+- **Device:** Android Device
+- **Expo Go Version:** Latest (January 2026)
 
 ### Next Steps
 - Begin React Native development with Expo
 - Test applications on physical device
 - Complete upcoming mobile development projects
 
+### Repository Information
+- **GitHub Repository:** https://github.com/Gabrieledesie/prodev-mobile-setup
+- **Directory Structure:** `prodev-mobile-setup/mobile-development-setup/`
+
 ---
-*Setup completed on: [Add date]*
+*Setup completed on: January 11, 2026*
